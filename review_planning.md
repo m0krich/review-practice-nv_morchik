@@ -46,7 +46,7 @@
 
 ## Задача 3: Кросс-ревью
 
-[Комментарии от одногруппника](https://github.com/example/repo/pull/1/files#review-comment)
+[Комментарии от одногруппника]((https://github.com/m0krich/review-practice-nv_morchik/issues/1))
 
 ## Выводы
 
