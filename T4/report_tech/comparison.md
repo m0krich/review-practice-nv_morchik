@@ -1,4 +1,5 @@
+```mermaid
 pie
     title Потребление RAM (GB)
-    "Firefox": 1.8
-    "Brave": 1.2
+    "Firefox": 1800
+    "Brave": 1200
